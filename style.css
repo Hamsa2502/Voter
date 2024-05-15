@@ -1,0 +1,25 @@
+
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-variant: small-caps;
+    font-style: inherit;
+    color: rgb(18, 8, 97);
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 1px black;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    border: top left radius 50px ;
+    border-bottom-right-radius: 50px;
+    text-align: center;
+}
+

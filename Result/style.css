@@ -1,0 +1,25 @@
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-style: inherit;
+    color: rgb(6, 200, 239);
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 1px black;
+}
+
+body{
+    text-align: center;
+}
+
+body{
+    width: 100%;
+    height: 200%;
+    background-image: url(IMG_20230814_213100.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
